@@ -1,0 +1,10 @@
+pandas
+numpy
+datasets
+transformers
+torch
+scikit-learn
+matplotlib
+pyyaml
+tqdm
+rich

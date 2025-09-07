@@ -1,0 +1,15 @@
+labels:
+  - KIS
+  - How-to
+  - Music
+  - News
+  - Sports
+  - Review
+
+aliases:
+  KIS: ["known-item", "episode", "ep", "season", "trailer", "tập", "vietsub", "official mv", "channel"]
+  How-to: ["how to", "tutorial", "hướng dẫn", "cách", "fix", "sửa", "mẹo"]
+  Music: ["lyrics", "lyric", "karaoke", "mv", "official audio", "beat", "nhạc"]
+  News: ["news", "breaking", "thời sự", "bản tin", "nóng"]
+  Sports: ["vs", "highlight", "full match", "trận", "bán kết", "chung kết", "premier league", "world cup", "live"]
+  Review: ["review", "đánh giá", "so sánh", "unboxing", "giá"]
