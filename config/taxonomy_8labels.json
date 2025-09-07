@@ -1,16 +1,16 @@
-labels:
-  - KIS
-  - How-to
-  - Music
-  - News
-  - Sports
-  - Review
-  - Entertainment
-  - Other
-
-aliases:
-  Entertainment:
-    [
+{
+  "labels": [
+    "KIS",
+    "How-to",
+    "Music",
+    "News",
+    "Sports",
+    "Review",
+    "Entertainment",
+    "Other"
+  ],
+  "aliases": {
+    "Entertainment": [
       "entertainment",
       "vlog",
       "reaction",
@@ -23,9 +23,10 @@ aliases:
       "podcast",
       "livestream",
       "stream",
-    ]
-  Other:
-    [
+      "asmr",
+      "parody"
+    ],
+    "Other": [
       "other",
       "noise",
       "spam",
@@ -34,25 +35,22 @@ aliases:
       "sale",
       "discount",
       "giảm giá",
-      "random",
-    ]
-
-  KIS:
-    [
-      "known-item",
+      "random"
+    ],
+    "KIS": [
+      "known item",
       "episode",
       "ep",
       "season",
+      "vietsub",
       "trailer",
       "tập",
-      "vietsub",
-      "full movie",
-      "chapter",
-      "chương",
       "phần",
-    ]
-  How-to:
-    [
+      "chương",
+      "full movie",
+      "chapter"
+    ],
+    "How-to": [
       "how to",
       "tutorial",
       "guide",
@@ -64,10 +62,9 @@ aliases:
       "cài đặt",
       "khắc phục",
       "setup",
-      "install",
-    ]
-  Music:
-    [
+      "install"
+    ],
+    "Music": [
       "music",
       "lyrics",
       "lyric",
@@ -79,11 +76,16 @@ aliases:
       "playlist",
       "remix",
       "instrumental",
-      "nhạc",
-    ]
-  News: ["news", "breaking news", "thời sự", "bản tin", "tin tức"]
-  Sports:
-    [
+      "nhạc"
+    ],
+    "News": [
+      "news",
+      "breaking news",
+      "thời sự",
+      "bản tin",
+      "tin tức"
+    ],
+    "Sports": [
       "highlights",
       "full match",
       "live match",
@@ -93,10 +95,9 @@ aliases:
       "world cup",
       "premier league",
       "champions league",
-      "trận",
-    ]
-  Review:
-    [
+      "trận"
+    ],
+    "Review": [
       "review",
       "đánh giá",
       "so sánh",
@@ -104,5 +105,7 @@ aliases:
       "hands-on",
       "trên tay",
       "giá",
-      "compare",
+      "compare"
     ]
+  }
+}
