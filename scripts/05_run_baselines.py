@@ -16,7 +16,7 @@ LABELS = ["KIS","How-to","Music","News","Sports","Review","Entertainment","Other
 
 
 def load_gold(path: str) -> pd.DataFrame:
-    df = pd.read_csv(path)
+    df = pd.read_csv(path, encoding="latin1")
     if "text" not in df.columns or "label" not in df.columns:
         raise ValueError("Gold file must have columns: 'text', 'label'")
     df = df.dropna(subset=["text", "label"])

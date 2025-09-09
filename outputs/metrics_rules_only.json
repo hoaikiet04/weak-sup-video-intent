@@ -1,0 +1,67 @@
+{
+  "accuracy": 0.17333333333333334,
+  "macro_f1": 0.1233270202020202,
+  "report": {
+    "KIS": {
+      "precision": 0.6,
+      "recall": 0.17647058823529413,
+      "f1-score": 0.2727272727272727,
+      "support": 17.0
+    },
+    "How-to": {
+      "precision": 1.0,
+      "recall": 0.17647058823529413,
+      "f1-score": 0.3,
+      "support": 34.0
+    },
+    "Music": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 23.0
+    },
+    "News": {
+      "precision": 0.75,
+      "recall": 0.06818181818181818,
+      "f1-score": 0.125,
+      "support": 44.0
+    },
+    "Sports": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 36.0
+    },
+    "Review": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 26.0
+    },
+    "Entertainment": {
+      "precision": 0.6666666666666666,
+      "recall": 0.024691358024691357,
+      "f1-score": 0.047619047619047616,
+      "support": 81.0
+    },
+    "Other": {
+      "precision": 0.13768115942028986,
+      "recall": 0.9743589743589743,
+      "f1-score": 0.24126984126984127,
+      "support": 39.0
+    },
+    "accuracy": 0.17333333333333334,
+    "macro avg": {
+      "precision": 0.3942934782608696,
+      "recall": 0.17752166587950902,
+      "f1-score": 0.1233270202020202,
+      "support": 300.0
+    },
+    "weighted avg": {
+      "precision": 0.455231884057971,
+      "recall": 0.17333333333333334,
+      "f1-score": 0.112010101010101,
+      "support": 300.0
+    }
+  }
+}

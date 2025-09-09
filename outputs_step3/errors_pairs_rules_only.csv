@@ -1,0 +1,17 @@
+y_true,y_pred,count
+Entertainment,Other,77
+News,Other,41
+Sports,Other,34
+How-to,Other,26
+Review,Other,26
+Music,Other,22
+KIS,Other,13
+Entertainment,KIS,1
+Entertainment,Sports,1
+How-to,KIS,1
+How-to,Review,1
+How-to,Sports,1
+KIS,Sports,1
+Music,Sports,1
+Sports,Entertainment,1
+Sports,News,1
